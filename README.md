@@ -26,22 +26,21 @@ C1-Code-Crunch-Convos/
 │   │   ├── slides.pdf
 │   │   ├── notebook.ipynb
 │   │   └── ...
+│   ├── resources/           # Centralized directory for session slides and notebooks
+│   │   ├── slides/
+│   │   │   ├── week-1-slides.pdf
+│   │   │   ├── week-2-slides.pdf
+│   │   │   └── ...
+│   │   ├── notebooks/
+│   │   │   ├── week-1-notebook.ipynb
+│   │   │   ├── week-2-notebook.ipynb
+│   │   │   └── ...
 │   └── ...
-│
-├── resources/
-│   ├── slides/              # Centralized directory for all session slides
-│   │   ├── week-1-slides.pdf
-│   │   ├── week-2-slides.pdf
-│   │   └── ...
-│   ├── notebooks/           # Centralized directory for all code notebooks
-│   │   ├── week-1-notebook.ipynb
-│   │   ├── week-2-notebook.ipynb
-│   │   └── ...
 │
 └── README.md
 ```
 
-- Navigate to the `resources` folder to **download slides and notebooks directly**.  
+- Navigate to the `resources` folder within `C1-SPRING-2025` to **download slides and notebooks directly**.  
 - Visit the weekly directories in `C1-SPRING-2025` to **preview slides and code via hyperlinks** in the README files.  
 
 ## 🔗 Quick Access  
