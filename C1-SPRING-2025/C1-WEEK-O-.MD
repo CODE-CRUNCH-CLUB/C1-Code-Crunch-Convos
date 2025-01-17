@@ -3,7 +3,7 @@
 ## Topic: Programming Basics
 - **Week Dates:** January 6, 2025 - January 10, 2025
 - **Unit:** Week 0 - Overview of C1
-- **Link to Slides:** [Week 0 - C1 _ Crunch Convos - Python Fundamentals](https://docs.google.com/presentation/d/1qPnW-chNuF2v199j14h4mXegv8_lhZpH/edit?usp=drive_link&ouid=107960321799476780456&rtpof=true&sd=true)
+- **Link to Slides:** [Week 0 - C1 _ Crunch Convos - Python Fundamentals.pptx](https://docs.google.com/presentation/d/1qPnW-chNuF2v199j14h4mXegv8_lhZpH/edit?usp=drive_link&ouid=107960321799476780456&rtpof=true&sd=true)
 
 ---
 
