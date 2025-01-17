@@ -28,8 +28,8 @@ C1-Code-Crunch-Convos/
 │   │   └── ...
 │   ├── resources/           # Centralized directory for session slides and notebooks
 │   │   ├── slides/
-│   │   │   ├── week-1-slides.pdf
-│   │   │   ├── week-2-slides.pdf
+│   │   │   ├── week-1-slides.pptx
+│   │   │   ├── week-2-slides.pptx
 │   │   │   └── ...
 │   │   ├── notebooks/
 │   │   │   ├── week-1-notebook.ipynb
