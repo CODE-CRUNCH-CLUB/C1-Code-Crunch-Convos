@@ -17,14 +17,14 @@ C1-Code-Crunch-Convos/
 │
 ├── C1-SPRING-2025/
 │   ├── Week-1/
-│   │   ├── README.md        # Contains hyperlinks to preview slides and code
-│   │   ├── slides.pdf       # Session slides for download
-│   │   ├── notebook.ipynb   # Jupyter Notebook for code problems
+│   │   ├── README.md          # Contains hyperlinks to preview slides and code
+│   │   ├── slides links       # Session slides for online preview
+│   │   ├── notebook links     # Jupyter Notebook for code problems online preview
 │   │   └── ...
 │   ├── Week-2/
 │   │   ├── README.md
-│   │   ├── slides.pdf
-│   │   ├── notebook.ipynb
+│   │   ├── slides links
+│   │   ├── notebook links
 │   │   └── ...
 │   ├── resources/           # Centralized directory for session slides and notebooks
 │   │   ├── slides/
