@@ -118,30 +118,8 @@ student_scores["David"] = 92
 print(student_scores)
 ```
 
----
 
-# Unit 3: Algorithms and Problem Solving
 
-- **Week Dates:** January 27, 2025 - January 31, 2025  
-- **Link to Slides:** [Unit 2 - C1 _ Crunch Convos - Sets & Dictionaries.pptx](https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos/blob/main/SPRING-2025/RESOURCES/Unit%202%20-%20C1%20_%20Crunch%20Convos%20-%20Sets%20%26%20Dictionaries.pptx.pdf)  
-
-### **Python Code Example**
-```python
-# Bubble Sort Algorithm
-
-def bubble_sort(arr):
-    n = len(arr)
-    for i in range(n):
-        for j in range(0, n-i-1):
-            if arr[j] > arr[j+1]:
-                arr[j], arr[j+1] = arr[j+1], arr[j]
-    return arr
-
-numbers = [64, 34, 25, 12, 22, 11, 90]
-print(bubble_sort(numbers))
-```
-
----
 
 Enjoy your journey in mastering Python and data structures! If you have any questions or feedback, don’t hesitate to reach out. Let’s crunch some code together!
 
