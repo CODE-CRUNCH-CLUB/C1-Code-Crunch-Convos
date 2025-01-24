@@ -102,7 +102,7 @@ print(greet("Brian"))
 ## Unit 2: Sets and Dictionaries
 
 - **Week Dates:** January 20, 2025 - January 24, 2025  
-- **Link to Slides:** [Unit 2 - Sets & Dictionaries.pptx](https://github.com/CODE-CRUNCH-CLUB/C1-CrunchConvos/blob/main/SPRING-2025/RESOURCES/Unit%202%20-%20Sets%20%26%20Dictionaries.pptx)  
+- **Link to Slides:** [Unit 2 - Sets & Dictionaries.pptx](https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos/blob/main/SPRING-2025/RESOURCES/Unit%202%20-%20C1%20_%20Crunch%20Convos%20-%20Sets%20%26%20Dictionaries.pptx.pdf)  
 
 ### **Python Code Example**
 ```python
