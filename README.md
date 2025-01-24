@@ -2,8 +2,7 @@
 
 Welcome to the **C1 Code Crunch Convos** repository! This repository is designed to provide you with all the resources you need to stay up-to-date and practice your coding skills throughout the semester.  
 
-## 📂 Resources Directory  
-The `resources` directory contains:  
+Here you can find:
 - **Slides**: Downloadable PDFs of all the slides from our sessions.   
 
 Feel free to download and explore these files for a hands-on learning experience.  
