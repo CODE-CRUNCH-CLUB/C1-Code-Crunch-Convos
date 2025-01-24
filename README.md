@@ -4,44 +4,9 @@ Welcome to the **C1 Code Crunch Convos** repository! This repository is designed
 
 ## 📂 Resources Directory  
 The `resources` directory contains:  
-- **Slides**: Downloadable PDFs of all the slides from our sessions.  
-- **Jupyter Notebooks**: Ready-to-use notebooks for coding problems and examples.  
+- **Slides**: Downloadable PDFs of all the slides from our sessions.   
 
 Feel free to download and explore these files for a hands-on learning experience.  
-
-## 📎 Repository Structure and Access  
-Here’s an overview of the repository structure and how to access the materials:  
-
-```
-C1-Code-Crunch-Convos/
-│
-├── C1-SPRING-2025/
-│   ├── Week-1/
-│   │   ├── README.md          # Contains hyperlinks to preview slides and code
-│   │   ├── slides links       # Session slides for online preview
-│   │   ├── notebook links     # Jupyter Notebook for code problems online preview
-│   │   └── ...
-│   ├── Week-2/
-│   │   ├── README.md
-│   │   ├── slides links
-│   │   ├── notebook links
-│   │   └── ...
-│   ├── resources/           # Centralized directory for session slides and notebooks
-│   │   ├── slides/
-│   │   │   ├── week-1-slides.pptx
-│   │   │   ├── week-2-slides.pptx
-│   │   │   └── ...
-│   │   ├── notebooks/
-│   │   │   ├── week-1-notebook.ipynb
-│   │   │   ├── week-2-notebook.ipynb
-│   │   │   └── ...
-│   └── ...
-│
-└── README.md
-```
-
-- Navigate to the `resources` folder within `C1-SPRING-2025` to **download slides and notebooks directly**.  
-- Visit the weekly directories in `C1-SPRING-2025` to **preview slides and code via hyperlinks** in the README files.  
 
 ## 🔗 Quick Access  
 - Repository Link: [C1 Code Crunch Convos](https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos/tree/main/C1-SPRING-2025)  
