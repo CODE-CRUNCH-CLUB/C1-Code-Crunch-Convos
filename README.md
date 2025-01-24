@@ -1,17 +1,19 @@
-# C1 Code Crunch Convos - Spring 2025  
+# C1 Crunch Convos
 
-Welcome to the **C1 Code Crunch Convos** repository! This repository is designed to provide you with all the resources you need to stay up-to-date and practice your coding skills throughout the semester.  
-
-Here you can find:
-- **Slides**: Downloadable PDFs of all the slides from our sessions.   
-
-Feel free to download and explore these files for a hands-on learning experience.  
+Welcome to **C1 Crunch Convos**! This interactive course is designed to prepare students for technical interviews by emphasizing problem-solving, algorithms, and hands-on coding. You’ll dive deep into Python basics and advanced concepts, ensuring a strong foundation for tackling real-world challenges.
 
 ## 🔗 Quick Access  
 - Repository Link: [C1 Code Crunch Convos](https://github.com/CODE-CRUNCH-CLUB/C1-Code-Crunch-Convos/tree/main/C1-SPRING-2025)  
 
----
+## 📂 **Resources**  
+This repository contains all the resources you’ll need throughout the workshop:  
 
+- **Presentations**: Slide decks for each week’s topic.  
+- **Scripts**: Code snippets and scripts used in demonstrations.  
+- **Worksheets**: Printable and digital activities, like ciphers and troubleshooting tasks.
+[C2 SPRING 2025](https://google.com)
+
+---
 Let’s keep crunching code and learning together! 🚀  
 
 If you have any questions or feedback, feel free to reach out. Happy coding! 💻🔥  
