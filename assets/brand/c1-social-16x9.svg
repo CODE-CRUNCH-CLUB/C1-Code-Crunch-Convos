@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-label="C1 Code Crunch Convos — 15-week open-source Python bootcamp · LinkedIn / FIU / email banner">
+  <defs>
+    <style>
+      .display { font-family: 'EB Garamond', 'Iowan Old Style', Georgia, serif; }
+      .mono    { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1920" height="1080" fill="#F6F1E7"/>
+
+  <!-- Editorial frame -->
+  <rect x="64" y="64" width="1792" height="952" fill="none" stroke="#0B1B2C" stroke-width="2"/>
+
+  <!-- Top eyebrow strip -->
+  <g transform="translate(120, 150)">
+    <text class="mono" fill="#8A6829" font-size="20" letter-spacing="4">VOLUME I · CODE CRUNCH CLUB · EST. 2024</text>
+  </g>
+  <g transform="translate(1800, 150)" text-anchor="end">
+    <text class="mono" fill="#6A6157" font-size="20" letter-spacing="4">INVITING LEARNERS <tspan fill="#B98F3E">WORLDWIDE</tspan></text>
+  </g>
+  <line x1="120" y1="190" x2="1800" y2="190" stroke="#C8B89E" stroke-width="1"/>
+
+  <!-- LEFT COLUMN: Mark + title + tagline -->
+  <g transform="translate(120, 270)">
+    <rect x="0" y="0" width="180" height="180" fill="none" stroke="#0B1B2C" stroke-width="3"/>
+    <text x="90" y="134" text-anchor="middle" class="display" font-size="128" font-style="italic" font-weight="600" fill="#0B1B2C">C1</text>
+    <circle cx="170" cy="10" r="6" fill="#B98F3E"/>
+  </g>
+
+  <!-- Title (right of mark) -->
+  <g transform="translate(360, 360)">
+    <text class="display" font-size="108" font-weight="500" fill="#0B1B2C" letter-spacing="-1.8">Code Crunch <tspan class="display" fill="#B98F3E" font-style="italic" font-weight="500">Convos.</tspan></text>
+  </g>
+
+  <!-- Tagline under title -->
+  <g transform="translate(360, 440)">
+    <text class="display" fill="#2A3F58" font-size="40" font-style="italic" font-weight="400">A fifteen-week, open-source Python bootcamp.</text>
+  </g>
+
+  <!-- Two-column body -->
+
+  <!-- Left body: positioning -->
+  <g transform="translate(120, 580)">
+    <text class="mono" fill="#8A6829" font-size="16" letter-spacing="3">§ THE PROMISE</text>
+    <g transform="translate(0, 50)">
+      <text class="display" fill="#0B1B2C" font-size="34" font-weight="400">From absolute beginner</text>
+      <text y="42" class="display" fill="#0B1B2C" font-size="34" font-weight="400">to industry-ready engineer —</text>
+      <text y="84" class="display" fill="#0B1B2C" font-size="34" font-weight="500" font-style="italic">in fifteen weeks.</text>
+    </g>
+  </g>
+
+  <!-- Right body: stats grid -->
+  <g transform="translate(1100, 580)">
+    <text class="mono" fill="#8A6829" font-size="16" letter-spacing="3">§ AT A GLANCE</text>
+
+    <!-- Stat rows -->
+    <g transform="translate(0, 60)">
+      <line x1="0" y1="-20" x2="700" y2="-20" stroke="#C8B89E"/>
+      <text class="display" fill="#0B1B2C" font-size="40" font-weight="500">15</text>
+      <text x="80" class="mono" fill="#6A6157" font-size="14" letter-spacing="2.5" y="-4">PROGRAM LENGTH</text>
+      <text x="80" class="display" fill="#0B1B2C" font-size="20" y="22">weekly modules · lectures, labs, projects</text>
+    </g>
+
+    <g transform="translate(0, 130)">
+      <line x1="0" y1="-20" x2="700" y2="-20" stroke="#C8B89E"/>
+      <text class="display" fill="#0B1B2C" font-size="40" font-weight="500">540</text>
+      <text x="120" class="mono" fill="#6A6157" font-size="14" letter-spacing="2.5" y="-4">TOTAL WORKLOAD</text>
+      <text x="120" class="display" fill="#0B1B2C" font-size="20" y="22">hours · roughly 36 per week</text>
+    </g>
+
+    <g transform="translate(0, 200)">
+      <line x1="0" y1="-20" x2="700" y2="-20" stroke="#C8B89E"/>
+      <text class="display" fill="#0B1B2C" font-size="40" font-weight="500">14<tspan fill="#B98F3E">+1</tspan></text>
+      <text x="140" class="mono" fill="#6A6157" font-size="14" letter-spacing="2.5" y="-4">PORTFOLIO</text>
+      <text x="140" class="display" fill="#0B1B2C" font-size="20" y="22">mini-projects, then a capstone</text>
+    </g>
+
+    <g transform="translate(0, 270)">
+      <line x1="0" y1="-20" x2="700" y2="-20" stroke="#C8B89E"/>
+      <text class="display" fill="#B98F3E" font-size="40" font-weight="500" font-style="italic">$0</text>
+      <text x="80" class="mono" fill="#6A6157" font-size="14" letter-spacing="2.5" y="-4">TUITION · ALWAYS</text>
+      <text x="80" class="display" fill="#0B1B2C" font-size="20" y="22">open source · GPL-3.0</text>
+    </g>
+  </g>
+
+  <!-- Bottom CTA / URL strip -->
+  <line x1="120" y1="940" x2="1800" y2="940" stroke="#C8B89E" stroke-width="1"/>
+  <g transform="translate(120, 985)">
+    <text class="mono" fill="#8A6829" font-size="18" letter-spacing="3">BEGIN WEEK 1 →</text>
+  </g>
+  <g transform="translate(1800, 985)" text-anchor="end">
+    <text class="mono" fill="#0B1B2C" font-size="18" letter-spacing="2">codecrunchglobal.vercel.app/course-c1-codecrunchconvos</text>
+  </g>
+</svg>

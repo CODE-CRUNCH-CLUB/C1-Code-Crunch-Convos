@@ -1,5 +1,7 @@
 # C1 · Code Crunch Convos — Python Bootcamp
 
+![C1 · Code Crunch Convos — Python Bootcamp](assets/brand/c1-social-16x9.png)
+
 > A fully open-source, 15-week Python bootcamp designed for absolute beginners progressing toward industry-ready engineering skills.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
