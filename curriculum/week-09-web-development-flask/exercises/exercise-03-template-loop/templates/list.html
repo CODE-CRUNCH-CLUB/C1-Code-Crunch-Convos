@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }}</title>
+    <style>
+      body {
+        font-family: system-ui, -apple-system, sans-serif;
+        max-width: 36rem;
+        margin: 2rem auto;
+        padding: 0 1rem;
+        color: #222;
+        line-height: 1.6;
+      }
+      h1 { color: #2b6cb0; }
+      ol li { margin: 0.25rem 0; }
+      .empty { color: #888; font-style: italic; }
+    </style>
+  </head>
+  <body>
+    <h1>{{ title }}</h1>
+
+    {% if items %}
+      <p>There are {{ items|length }} item(s):</p>
+      <ol>
+        {% for item in items %}
+          <li>
+            {{ loop.index }}. {{ item }}
+            {% if loop.first %}<small>(first!)</small>{% endif %}
+            {% if loop.last %}<small>(last!)</small>{% endif %}
+          </li>
+        {% endfor %}
+      </ol>
+    {% else %}
+      <p class="empty">No items yet.</p>
+    {% endif %}
+
+    <hr>
+    <p><small>Exercise 03 &mdash; Week 9, Code Crunch Convos.</small></p>
+  </body>
+</html>

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Form echo</title>
+    <style>
+      body {
+        font-family: system-ui, -apple-system, sans-serif;
+        max-width: 32rem;
+        margin: 2rem auto;
+        padding: 0 1rem;
+        color: #222;
+        line-height: 1.6;
+      }
+      h1 { color: #2b6cb0; }
+      label { display: block; margin-top: 1rem; font-weight: 600; }
+      input[type="text"] {
+        width: 100%;
+        padding: 0.5rem;
+        font-size: 1rem;
+        border: 1px solid #bbb;
+        border-radius: 4px;
+      }
+      button {
+        margin-top: 1rem;
+        padding: 0.5rem 1rem;
+        background: #2b6cb0;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 1rem;
+      }
+      .flashes { list-style: none; padding: 0; }
+      .flash {
+        padding: 0.5rem 0.75rem;
+        margin: 0.5rem 0;
+        border-radius: 4px;
+      }
+      .flash-success { background: #d4edda; color: #155724; }
+      .flash-error   { background: #f8d7da; color: #721c24; }
+    </style>
+  </head>
+  <body>
+    <h1>Form echo</h1>
+
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        <ul class="flashes">
+          {% for category, message in messages %}
+            <li class="flash flash-{{ category }}">{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    <form method="post" action="{{ url_for('form') }}">
+      <label for="name">Your name</label>
+      <input type="text" id="name" name="name" maxlength="50" autofocus required>
+
+      <button type="submit">Say hello</button>
+    </form>
+
+    <hr>
+    <p><small>Exercise 04 &mdash; Week 9, Code Crunch Convos.</small></p>
+  </body>
+</html>
